@@ -1,0 +1,242 @@
+
+.headerContainer{
+    padding-right: 50px;
+
+    margin: 0px;
+    padding-left: 50px;
+    padding-top:10px ;
+    padding-bottom: 10px;
+    color: white;
+    background-color: rgb(113, 168, 217);
+    
+    display: flex;
+    align-items: center;
+}
+
+.facebookIconHeader{
+    font-size: 30px;}
+    
+.searchContainer{
+    /* height: 10px;
+    width: 10px; */
+    margin-left: 20px;
+    
+    display: flex;
+    margin-right: 180px;
+}
+
+.searchBox{
+    /* flex-basis: 90%; */
+    width: 520px;
+    height: 30px;
+    background-color: rgb(244, 243, 243);       
+}
+.searchIcon{
+    /* flex-basis: 10%; */
+    height: 30px;
+    background-color: rgb(129, 124, 124);
+    width: 10px;
+}
+.profileIcon{
+    background-color: grey;
+    padding: 8px;
+    border-radius: 100%;
+    font-size: large;
+    margin-right: 10px;
+}
+.headerNav{
+    margin-right: 30px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.navBox{
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+.onlineContainer{
+    display: flex;
+    gap: 20px;
+}
+.onlineCircle{
+    border-radius: 100px;
+
+    padding: 15px;
+    background-color: grey;
+}
+.settings{
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.profileBlock{
+    margin-bottom: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    gap: 5px;
+
+}
+
+
+.heroSection{
+    justify-content: space-between;
+    padding: 15px;
+    display: flex;
+    gap: 15px;
+
+}
+
+.leftBarBOX{
+    display: flex;
+    flex-basis: 20%;
+
+    flex-direction: column;
+    gap: 10px;
+    
+
+}
+
+.leftBar{
+    display: flex;
+    
+}
+
+.leftIcon{
+    height: 25px;
+    width: 25px;
+    border-radius: 100px;
+    background-color: grey;
+}
+
+.leftBarBlock{
+    
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+
+}
+
+.leftTitle{
+    height: 12px;
+    width: 160px;
+    background-color: grey;
+}
+
+.topBarPost{
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.textField1{
+    height: 15px;
+    width: 90px;
+    background-color: skyblue;  
+    margin-bottom: 5px;
+}
+
+.textField2{
+    height: 15px;
+    width: 120px;
+    background-color: grey
+}
+
+.profile{
+    padding: 10px;
+    background-color: skyblue;
+    border-radius: 100%;
+    font-size: xx-large;
+                
+}
+
+.leftBlock{
+    display: flex;
+    gap: 10px;
+}
+.likeCircle{
+    height: 20px;
+    width: 20px;
+    background-color: lightcoral;
+    border-radius: 100%;
+    
+   
+}
+
+.likesC{
+    /* align-content: center; */
+    align-items: center;
+    gap: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.bottomPosts{
+    display: flex;
+    justify-content: space-between;
+}
+
+.profileP{
+    height: 30px;
+    width: 30px;
+    background-color: grey;
+    border-radius: 100%;
+}
+.rightFlex{
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+}
+
+.sideBar{
+    margin-bottom: 15px;
+    height: 10px;
+    width: 190px;
+    background-color: grey;
+}
+
+
+.rightContainer{
+    padding: 20px;
+    flex-basis: 20%;
+    background-color: white;
+    height: 400px;
+}
+
+.rightPost{
+    box-shadow: rgb(157, 152, 152) 5px 5px 10px;
+
+    margin-top: 10px;
+    background-color: white;
+    padding: 20px;
+}
+
+.toprightB{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.bar1{
+    background-color: grey;
+    width: 80px;
+    margin-bottom: 20px;
+}
+
+.sidepost{
+    height: 200px; 
+    background-color: grey;
+    border-radius: 10px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgba(218, 218, 219, 0.404);
+}
